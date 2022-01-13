@@ -1,7 +1,7 @@
 # the-first-try
 my first try to creat new repository
 ## projekt notes
-#node  commondo
+# node  commondo
 - node index.js
 - code index.js
 - cd
