@@ -1,9 +1,18 @@
 # the-first-try
 my first try to creat new repository
 ## projekt notes
+#node  commondo
+- node index.js
+- code index.js
+- cd
+- ls
+-  mkdir
+
+
+
+# Git commondo
 - git clone
 - dir
-- mkdir
 - git status
 - git add
 - git reset head
